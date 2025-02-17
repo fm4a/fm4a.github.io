@@ -1,0 +1,11 @@
+<!-- Footer -->
+<footer class="wrapper style1 align-center">
+    <div class="inner">
+        <p>FM4A &copy; 2025</p>
+</div>
+</footer>
+
+<!-- FontAwesome JS -->
+{{ range .Site.Params.asset.fontawesome_js -}}
+    <script type="text/javascript" src="{{ . | absURL }}"></script>
+{{- end }}

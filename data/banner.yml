@@ -1,0 +1,15 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "AI Foundation Models for the Atmosphere"
+subtitle: |
+ 📅 <b>Date</b>: August 18 - August 21, 2025 <br>
+ 📍 <b>Location</b>: Colorado State University, Fort Collins, USA
+
+
+content : |
+  A workshop bringing together atmospheric scientists and model developers to discuss and develop emerging applications of AI foundation models for atmospheric science applications.
+
+  <p style="margin:2cm">
+  <br><img src="images/ats_logo.png" width=60%><img src="images/nasa_logo.png" width=40%>
+  </p>
+image : "images/ats_vert.jpg"

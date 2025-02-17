@@ -1,0 +1,38 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Workshop announcement"
+content: |
+
+    AI foundation models (FMs), i.e., large machine learning models trained on
+    extensive, generic corpora of atmospheric training data, have emerged as a
+    novel tool to approach challenging tasks in atmospheric science. The <b>AI
+    Foundation Models for the Atmosphere workshop</b> will bring together
+    atmospheric scientists and model developers to assess the current
+    state of the art of AI FMs and related validation frameworks, explore their
+    applications, and identify remaining data, technology, and knowledge gaps
+    hindering their adoption.
+
+    <h3>Program points</h3>
+
+    <p>
+      <ul>
+        <li> Presentation and discussion sessions on the development of AI FMs and their application throughout the Atmospheric Sciences </li>
+        <li> Hands-on sessions demonstrating the use of FMs on diverse tasks ranging from satellite retrievals over weather forecasting to climate model downscaling. </li>
+        <li> Roadmap Development: Collaboratively outlining key opportunities, challenges, and strategic steps needed to unlock the full potential of FMs in atmospheric science. </li>
+      </ul>
+
+    The findings and discussions from this workshop will form the basis for a
+    report detailing principal opportunities and challenges of FMs for
+    atmospheric-science applications, and proposing a roadmap for advancing the
+    use of AI FMs in atmospheric science.
+    </p>
+
+
+    <h3>Audience</h3>
+
+    We welcome  graduate students, postdocs, faculty, research scientists interested in developing atmospheric-science applications of AI FMs as well as model developers that want to share their models with the atmospheric science community.
+
+
+
+image: "images/milton.png"

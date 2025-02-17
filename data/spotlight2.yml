@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "Registration"
+content: |
+
+  <b>Workshop participation will be free of charge.</b> We are inviting oral and poster presentations from atmospheric scientists applying or looking to apply AI FMs in their work as well as model developers who want to present the foundation models.
+  Workshop registration will open early to mid March.
+
+
+image: "images/t2m.jpg"
