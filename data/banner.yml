@@ -9,9 +9,20 @@ subtitle: |
 content : |
   A workshop bringing together atmospheric scientists and model developers to discuss and develop emerging applications of AI foundation models for atmospheric science.
 
+  <br>
   <p style="margin:2cm">
-  <br><img src="images/ats_logo.png" width=60%><img src="images/nasa_logo.png" width=40%>
+  <div style="display: flex;">
+  <img src="images/ats_logo.png" width=60%>
+
+  <div style="display: flex; flex-direction: column; align-items: center; border: 2px solid black; margin-left: 40px; padding: 10px; width: 30%, margin: auto;">
+    <img src="images/nasa_logo.png" alt="NASA Insignia with the word Partner below", width=80%>
+    <div style="text-align: center; margin-top: 8px; font-size: 36pt; font-family: Helvetica, Arial, sans-serif;">Partner</div>
+  </div>
+  *
+
+  </div>
   </p>
+
 image :
   src: "images/ats_vert.jpg"
   alt: "The CSU Department of Atmospheric Science infront of Horse Tooth Mountain"

@@ -2,10 +2,8 @@
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
 title : "Registration"
 content: |
-
-<b>Participation in the workshop is free of charge.</b> We will welcome oral and poster presentations from atmospheric scientists who are applying or exploring the use of AI foundation models in their research. Additionally, we invite model developers interested in presenting their work on foundation models and making them accessible to practitioners in the field.
-Workshop registration will open in early to mid-March.
-
+  <b>Participation in the workshop is free of charge.</b> We will welcome oral and poster presentations from atmospheric scientists who are applying or exploring the use of AI foundation models in their research. Additionally, we invite model developers interested in presenting their work on foundation models and making them accessible to practitioners in the field.
+  Workshop registration will open in early to mid-March.
 
 image:
   src: "images/t2m.png"
