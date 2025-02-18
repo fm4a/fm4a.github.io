@@ -12,4 +12,6 @@ content : |
   <p style="margin:2cm">
   <br><img src="images/ats_logo.png" width=60%><img src="images/nasa_logo.png" width=40%>
   </p>
-image : "images/ats_vert.jpg"
+image :
+  src: "images/ats_vert.jpg"
+  alt: "The CSU Department of Atmospheric Science infront of Horse Tooth Mountain"

@@ -5,15 +5,15 @@ title : "Workshop announcement"
 content: |
 
     AI foundation models (FMs), i.e., large machine learning models trained on
-    extensive, generic corpora of atmospheric training data, have emerged as a
-    novel tool to approach challenging tasks in atmospheric science. The <b>AI
-    Foundation Models for the Atmosphere workshop</b> will bring together
-    atmospheric scientists and model developers to assess the current
-    state of the art of AI FMs and related validation frameworks, explore their
+    extensive, generic corpora of atmospheric training data, are emerging as
+    powerful tools for tackling complex challenges atmospheric science. The
+    <b>AI Foundation Models for the Atmosphere workshop</b> will bring together
+    atmospheric scientists and model developers to assess the current state of
+    the art of AI FMs and related validation frameworks, explore their
     applications, and identify remaining data, technology, and knowledge gaps
     hindering their adoption.
 
-    <h3>Program points</h3>
+    <h3>Program Highlights</h3>
 
     <p>
       <ul>
@@ -29,10 +29,16 @@ content: |
     </p>
 
 
-    <h3>Audience</h3>
+    <h3>Target Audience</h3>
 
-    We welcome  graduate students, postdocs, faculty, research scientists interested in developing atmospheric-science applications of AI FMs as well as model developers that want to share their models with the atmospheric science community.
+    <p>
+        We invite <strong>graduate students, postdocs, faculty, and research scientists</strong> interested in developing AI FM applications for atmospheric science.
+        <strong>AI model developers</strong> eager to share their models and collaborate with the atmospheric science community are also highly encouraged to participate.
+    </p
 
 
 
-image: "images/milton.png"
+
+image:
+  src: "images/milton.png"
+  alt: A true color image of Hurrican Milton north of the Yucatan peninsula overlaid with contours of 89-GHz passive microwave observations.
