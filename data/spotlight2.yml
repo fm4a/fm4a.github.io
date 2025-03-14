@@ -1,9 +1,24 @@
 ####################### Spotlight #########################
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
 title : "Registration"
+id : registration
 content: |
-  <b>Participation in the workshop is free of charge.</b> We will welcome oral and poster presentations from atmospheric scientists who are applying or exploring the use of AI foundation models in their research. Additionally, we invite model developers interested in presenting their work on foundation models and making them accessible to practitioners in the field.
-  Workshop registration will open in early to mid-March.
+
+  Please use <a href="https://docs.google.com/forms/d/1F_mv_9Io0M_FySRlwiMLA3jD_EkOIFrNW5vBI_PNOwI"> this link</a> to register for the FM4A workshop.
+
+  Both in-person and remote participation is free of charge. Due to space
+  limitations, in-person participation is limited to 70 persons.
+
+
+  We invite oral and poster contributions from in-person attendees on the
+  following topics:
+
+  <ul>
+    <li> <b> Foundation Model Development </b> – Research on the design, training, validation,
+    and benchmarking of AI foundation models for atmospheric applications. </li>
+    <li> <b> AI and Machine Learning Applications in Atmospheric Science </b> – Innovative uses of AI/ML
+     techniques in areas such as remote sensing, numerical weather prediction, and climate science. </li>
+  </ul>
 
 image:
   src: "images/t2m.png"
