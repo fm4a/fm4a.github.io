@@ -14,9 +14,8 @@ content : |
   <div style="display: flex;">
   <img src="images/ats_logo.png" width=60%>
 
-  <div style="display: flex; flex-direction: column; align-items: center; border: 2px solid black; margin-left: 40px; padding: 10px; width: 30%; margin: auto;">
-    <img src="images/nasa_logo.png" alt="NASA Insignia with the word Partner below", width=80%>
-    <div style="text-align: center; margin-top: 8px; font-size: 2em; font-family: Helvetica, Arial, sans-serif;">Partner</div>
+  <div style="display: flex; flex-direction: column; align-items: center; margin-left: 40px;  width: 30%; margin: auto;">
+    <img src="images/NASA-Grantee-RGB.png" alt="NASA Insignia with the word Grantee below", width=92%>
   </div>
   *
 

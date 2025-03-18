@@ -4,20 +4,21 @@ title : "Registration"
 id : registration
 content: |
 
-  Please use <a href="https://docs.google.com/forms/d/1F_mv_9Io0M_FySRlwiMLA3jD_EkOIFrNW5vBI_PNOwI"> this link</a> to register for the FM4A workshop.
+  Please use <a href="https://docs.google.com/forms/d/e/1FAIpQLSdkm6mYNOO9thUEn3Wbbd3jcN61RfXI3m3mjsl0uTkVwr7UqA/viewform?usp=dialog"> this link</a> to register for the FM4A workshop.
 
-  Both in-person and remote participation is free of charge. Due to space
-  limitations, in-person participation is limited to 70 persons.
+  Both in-person and remote participation are free of charge. Due to space
+  limitations, in-person attendance is capped at 70 participants and will be
+  granted on a first-come, first-served basis.
 
-
-  We invite oral and poster contributions from in-person attendees on the
-  following topics:
+  We welcome oral and poster contributions from in-person attendees on the following topics:
 
   <ul>
-    <li> <b> Foundation Model Development </b> – Research on the design, training, validation,
-    and benchmarking of AI foundation models for atmospheric applications. </li>
-    <li> <b> AI and Machine Learning Applications in Atmospheric Science </b> – Innovative uses of AI/ML
-     techniques in areas such as remote sensing, numerical weather prediction, and climate science. </li>
+    <li> <b> Foundation Model Development </b> – Research on the design, training,
+     validation, and benchmarking of AI foundation models for atmospheric
+     applications. </li>
+    <li> <b> AI and Machine Learning Applications in Atmospheric
+     Science </b> – Innovative applications of AI/ML techniques in areas such as
+    remote sensing, numerical weather prediction, and climate science. </li>
   </ul>
 
 image:
