@@ -10,16 +10,14 @@ content : |
   A workshop bringing together atmospheric scientists and model developers to discuss and develop emerging applications of AI foundation models for atmospheric science.
 
   <br>
-  <p style="margin:2cm">
-  <div style="display: flex;">
-  <img src="images/ats_logo.png" width=60%>
-
-  <div style="display: flex; flex-direction: column; align-items: center; margin-left: 40px;  width: 30%; margin: auto;">
-    <img src="images/NASA-Grantee-RGB.png" alt="NASA Insignia with the word Grantee below", width=92%>
-  </div>
+  <p style="margin:1cm">
+  <div style="display: flex; width: 100%; align-items: center;">
+  <img src="images/ats_logo.png" style="width: 45%; flex-shrink: 0; height: auto;">
+  <img src="images/NASA-Grantee-RGB.png" alt="NASA Insignia with the word Grantee below", style="max-width: 25%; height: auto;">
   *
-
+  <img src="images/ibm_logo.gif" style="max-width: 30%; height: auto;">
   </div>
+
   </p>
 
 image :
