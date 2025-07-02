@@ -4,23 +4,38 @@ title : "Registration"
 id : registration
 content: |
 
-  <s>Please use <a href="https://docs.google.com/forms/d/e/1FAIpQLSdkm6mYNOO9thUEn3Wbbd3jcN61RfXI3m3mjsl0uTkVwr7UqA/viewform?usp=dialog"> this link</a> to register for the FM4A workshop.
-  Registration is open until May 19.</s> The registration is now closed.
+    AI foundation models (FMs), i.e., large machine learning models trained on
+    extensive, generic corpora of atmospheric training data, are emerging as
+    powerful tools for tackling complex challenges in atmospheric science. The
+    <b>AI Foundation Models for the Atmosphere workshop</b> will bring together
+    atmospheric scientists and model developers to assess the current state of
+    the art of AI FMs and related validation frameworks, explore their
+    applications, and identify remaining data, technology, and knowledge gaps
+    hindering their adoption.
 
-  Both in-person and remote participation are free of charge. Due to space
-  limitations, in-person attendance is capped at 70 participants and will be
-  granted on a first-come, first-served basis.
+    <h3>Program Highlights</h3>
 
-  We welcome oral and poster contributions from in-person attendees on the following topics:
+    <p>
+      <ul>
+        <li> Presentation and discussion sessions on the development of AI FMs and their application throughout the Atmospheric Sciences </li>
+        <li> Hands-on sessions demonstrating the use of FMs on diverse tasks ranging from satellite retrievals over weather forecasting to climate model downscaling. </li>
+        <li> Roadmap Development: Collaboratively outlining key opportunities, challenges, and strategic steps needed to unlock the full potential of FMs in atmospheric science. </li>
+      </ul>
 
-  <ul>
-    <li> <b> Foundation Model Development </b> – Research on the design, training,
-     validation, and benchmarking of AI foundation models for atmospheric
-     applications. </li>
-    <li> <b> AI and Machine Learning Applications in Atmospheric
-     Science </b> – Innovative applications of AI/ML techniques in areas such as
-    remote sensing, numerical weather prediction, and climate science. </li>
-  </ul>
+    The findings and discussions from this workshop will form the basis for a
+    report detailing principal opportunities and challenges of FMs for
+    atmospheric-science applications, and proposing a roadmap for advancing the
+    use of AI FMs in atmospheric science.
+    </p>
+
+
+    <h3>Target Audience</h3>
+
+    <p>
+        We invite <strong>graduate students, postdocs, faculty, and research scientists</strong> interested in developing AI FM applications for atmospheric science.
+        <strong>AI model developers</strong> eager to share their models and collaborate with the atmospheric science community are also highly encouraged to participate.
+    </p
+
 
 image:
   src: "images/t2m.png"
