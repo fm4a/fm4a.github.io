@@ -1,16 +1,29 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title : "Workshop information"
+title : "Information"
 content: |
 
+
+    We are looking forward to welcoming you to Fort Collins from August 18
+    to 21. While we are currently at capacity for in-person attendees, please feel
+    free to contact the organizing committee if you are still interested in
+    attending, as last-minute cancellations may occur. <a href="https://docs.google.com/forms/d/e/1FAIpQLSdkm6mYNOO9thUEn3Wbbd3jcN61RfXI3m3mjsl0uTkVwr7UqA/viewform?usp=header">Registration for online
+    attendance</a> also remains open.
+
+    <h3>Agenda</h3>
+
     <p>
-      <ul>
-        <li>  <a href="https://docs.google.com/document/d/1cxCXpXnzru_1g2ZS7HcDV5uxEQig5_mQe48udWwIiZ0/edit?usp=sharing">Workshop logistics</a>
-      </ul>
+    The workshop agenda is available
+    <a href="https://docs.google.com/document/d/1k92PRdYWNi2p8_QMA5iydTpKxXbZzEzGAUlKbKS_M08/edit?usp=sharing">here</a>.
     </p>
 
 
+    <h3>Additional Information</h3>
+
+    <p>
+    <a href="https://docs.google.com/document/d/1cxCXpXnzru_1g2ZS7HcDV5uxEQig5_mQe48udWwIiZ0/edit?usp=sharing">This document</a> provides useful information about travel arrangements and workshop logistics.
+    </p>
 
 
 

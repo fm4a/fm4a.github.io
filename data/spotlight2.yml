@@ -1,7 +1,7 @@
 ####################### Spotlight #########################
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
-title : "Registration"
-id : registration
+title : "About"
+id : about
 content: |
 
     AI foundation models (FMs), i.e., large machine learning models trained on

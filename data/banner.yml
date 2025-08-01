@@ -14,7 +14,6 @@ content : |
   <div style="display: flex; width: 100%; align-items: center;">
   <img src="images/ats_logo.png" style="width: 45%; flex-shrink: 0; height: auto;">
   <!-- <img src="images/NASA-Grantee-RGB.png" alt="NASA Insignia with the word Grantee below", style="max-width: 25%; height: auto;"> -->
-  *
   <img src="images/ibm_logo.gif" style="max-width: 30%; height: auto;">
   </div>
 
